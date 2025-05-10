@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+pandas
+yfinance
+psycopg2-binary
+python-dotenv
+
